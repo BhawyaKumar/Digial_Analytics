@@ -5,4 +5,5 @@ matplotlib
 seaborn
 sqlalchemy
 plotly
-pymssql
+psycopg2-binary
+pyodbc
